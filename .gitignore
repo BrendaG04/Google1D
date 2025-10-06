@@ -1,3 +1,6 @@
-datasets/*.csv
-data-local/*.csv
-
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.env

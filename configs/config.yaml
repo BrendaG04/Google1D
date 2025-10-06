@@ -1,0 +1,4 @@
+paths:
+  data_root: "../data-local"
+  raw_file: "RU_youtube_trending_data.csv"
+  processed_dir: "../data-local/processed"
