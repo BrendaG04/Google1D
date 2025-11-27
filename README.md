@@ -22,7 +22,7 @@
 | Shahriar | [Shahking](https://github.com/Shah-king) | ... |
 | Kristel | [kristel777](https://github.com/kristel777) | ... |
 | Miles | [Miles1744](https://github.com/miles1744) | ... |
-| Teammate 6 Name | [teammate2-handle](https://github.com/teammate2-handle) | ... |
+| Nancy Nakyung | [@nancy1404](https://github.com/nancy1404) | ... |
 | Teammate 7 Name | [teammate2-handle](https://github.com/teammate2-handle) | ... |
 
 | **Challenge Advisor:** Woon Ket Wong |  | Haziel Andrade |
