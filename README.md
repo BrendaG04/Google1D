@@ -23,7 +23,7 @@
 | Kristel | [kristel777](https://github.com/kristel777) | ... |
 | Miles | [Miles1744](https://github.com/miles1744) | ... |
 | Nancy Nakyung | [@nancy1404](https://github.com/nancy1404) | ... |
-| Teammate 7 Name | [teammate2-handle](https://github.com/teammate2-handle) | ... |
+| Rishika Vats | [Irishsss](https://github.com/Irishsss) | ... |
 
 | **Challenge Advisor:** Woon Ket Wong |  | Haziel Andrade |
 
